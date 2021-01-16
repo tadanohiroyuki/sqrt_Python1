@@ -8,8 +8,7 @@ Visual Studio2019
 * 計算結果の出力が終われば再度入力できる
 * 負の数値や数字以外の文字を入力するとはじかれ再び正の数値を入力するよう求められる   
 ---
-# ライセンス
-
+[license」(https://github.com/tadanohiroyuki/sqrt_Python1/blob/master/LICENSE)
 
 
 
