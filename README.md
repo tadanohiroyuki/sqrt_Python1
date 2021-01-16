@@ -1,1 +1,2 @@
-# sqrt_Python1
+# sqrt_Python1   
+#正の整数の平方根の近似値を求めるプログラム   
