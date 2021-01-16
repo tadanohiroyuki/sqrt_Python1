@@ -17,7 +17,7 @@ while True:
         continue
     
     except:
-        print("予期していないエラーです")
+        print("正の数値を入力してください")
         
         exit()
     if(x <= 0):
