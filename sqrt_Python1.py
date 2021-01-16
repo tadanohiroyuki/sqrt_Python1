@@ -1,5 +1,5 @@
 #[sqrt_Python1.py]
-#Copyright (c) [year] [tadanohiroyuki]
+#Copyright (c) [2021] [tadanohiroyuki]
 #This software is released under the MIT License.
 #http://opensource.org/licenses/mit-license.php
 
