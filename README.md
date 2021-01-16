@@ -1,6 +1,6 @@
 # sqrt_Python1 
 # 使用環境   
-Visual Studio2019
+* Visual Studio2019
 ---
 # プログラムの内容
 * 正の数値の平方根の近似値を求めるプログラム  
